@@ -1,1 +1,1 @@
-new programm
+python programm
